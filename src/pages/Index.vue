@@ -7,6 +7,7 @@
         <Shortcut link="/mision" text="Misión" icon="target-icon" />
         <Shortcut link="/panorama-mexico" text="Panorama México" icon="alert-triangle-icon" />
         <Shortcut link="/catalogo-katana" text="Catálogo" icon="shield-icon" />
+        <Shortcut link="/catalogo-katana" text="Contacto" icon="message-square-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
