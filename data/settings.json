@@ -1,7 +1,7 @@
 {
   "sidebar": [
     {
-      "section": "Presentación",
+      "section": "PRESENTACIÓN KATANA",
       "topics": [
         {
           "title": "MISIÓN",
@@ -15,10 +15,6 @@
         {
           "title": "Principales armas a las que se enfrentan cuerpos de seguridad en México",
           "slug": "panorama-mexico"
-        },
-        {
-          "title": "RESUMEN DE PROTECCIÓN",
-          "slug": "resumen-proteccion-blindaje"
         }
       ]
     }
