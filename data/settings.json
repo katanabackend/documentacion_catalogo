@@ -4,6 +4,10 @@
       "section": "CATÁLOGO",
       "topics": [
         {
+          "title": "CASCOS BALÍSTICOS",
+          "slug": "cascos-balisticos"
+        },
+        {
           "title": "PLACAS BALÍSTICAS",
           "slug": "placas-balisticas"
         },
