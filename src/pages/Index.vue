@@ -6,7 +6,7 @@
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/mision" text="Misión" icon="target-icon" />
         <Shortcut link="/panorama-mexico" text="Panorama México" icon="alert-triangle-icon" />
-        <Shortcut link="/catalogo-katana" text="Catálogo KATANA" icon="shield-icon" />
+        <Shortcut link="/catalogo-katana" text="Catálogo" icon="shield-icon" />
       </nav>
       <GitLink class="git" size="large" />
     </div>
