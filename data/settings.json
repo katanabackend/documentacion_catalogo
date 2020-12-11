@@ -4,6 +4,10 @@
       "section": "CATÁLOGO",
       "topics": [
         {
+          "title": "PLACAS BALÍSTICAS",
+          "slug": "placas-balisticas"
+        },
+        {
           "title": "CHALECOS BALÍSTICOS",
           "slug": "chalecos-balisticos"
         }
