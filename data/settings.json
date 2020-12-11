@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "RESUMEN DE PROTECCION",
-      "topics": [
-        {
-          "title": "NIVELES DE BLINDAJE",
-          "slug": "niveles-blindaje"
-        }
-      ]
-    },
-    {
       "section": "PRESENTACIÓN KATANA",
       "topics": [
         {
@@ -53,6 +44,15 @@
         {
           "title": "CINTURONES TÁCTICOS",
           "slug": "cinturones-tacticos"
+        }
+      ]
+    },
+    {
+      "section": "RESUMEN DE PROTECCION",
+      "topics": [
+        {
+          "title": "NIVELES DE BLINDAJE",
+          "slug": "niveles-blindaje"
         }
       ]
     }
