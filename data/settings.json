@@ -1,31 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "CATÁLOGO",
+      "section": "RESUMEN DE PROTECCION",
       "topics": [
         {
-          "title": "CINTURONES TÁCTICOS",
-          "slug": "cinturones-tacticos"
-        },
-        {
-          "title": "BOTAS TÁCTICAS",
-          "slug": "botas-tacticas"
-        },
-        {
-          "title": "PORTA CARGADORES",
-          "slug": "porta-cargadores"
-        },
-        {
-          "title": "CASCOS BALÍSTICOS",
-          "slug": "cascos-balisticos"
-        },
-        {
-          "title": "PLACAS BALÍSTICAS",
-          "slug": "placas-balisticas"
-        },
-        {
-          "title": "CHALECOS BALÍSTICOS",
-          "slug": "chalecos-balisticos"
+          "title": "NIVELES DE BLINDAJE",
+          "slug": "niveles-blindaje"
         }
       ]
     },
@@ -44,6 +24,35 @@
         {
           "title": "Principales armas a las que se enfrentan cuerpos de seguridad en México",
           "slug": "panorama-mexico"
+        }
+      ]
+    },
+    {
+      "section": "CATÁLOGO",
+      "topics": [
+        {
+          "title": "CHALECOS BALÍSTICOS",
+          "slug": "chalecos-balisticos"
+        },
+        {
+          "title": "PLACAS BALÍSTICAS",
+          "slug": "placas-balisticas"
+        },
+        {
+          "title": "CASCOS BALÍSTICOS",
+          "slug": "cascos-balisticos"
+        },
+        {
+          "title": "PORTA CARGADORES",
+          "slug": "porta-cargadores"
+        },
+        {
+          "title": "BOTAS TÁCTICAS",
+          "slug": "botas-tacticas"
+        },
+        {
+          "title": "CINTURONES TÁCTICOS",
+          "slug": "cinturones-tacticos"
         }
       ]
     }
