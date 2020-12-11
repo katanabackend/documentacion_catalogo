@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "CATÁLOGO",
+      "topics": [
+        {
+          "title": "CHALECOS BALÍSTICOS",
+          "slug": "chalecos-balisticos"
+        }
+      ]
+    },
+    {
       "section": "PRESENTACIÓN KATANA",
       "topics": [
         {
