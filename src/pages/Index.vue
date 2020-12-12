@@ -5,7 +5,7 @@
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/mision" text="Misión" icon="target-icon" />
-        <Shortcut link="/panorama-mexico" text="Panorama México" icon="alert-triangle-icon" />
+        <Shortcut link="/panorama-mexico" text="Panorama de Seguridad México" icon="alert-triangle-icon" />
         <Shortcut link="/catalogo-katana" text="Catálogo" icon="shield-icon" />
         <Shortcut link="/contacto" text="Contacto" icon="message-square-icon" />
       </nav>
