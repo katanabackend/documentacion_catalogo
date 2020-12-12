@@ -6,25 +6,37 @@ slug: panorama-mexico
 ---
 # Blindaje|NIVEL IIIA
 
-**Desert Eagle**
+**Desert Eagle** 
 
-("Magnum"):
-
-(Munición .44 Mag):
+> > ("Magnum"):
+> >
+> > > ![](/placeholder.png)
+> >
+> > > > (Munición .44 Mag):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
 **Taurus 856**
 
-(Revólver):
-
-(Munición .38 Special):
+> > (Revólver):
+> >
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición .38 Special):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
 **S&W 9 mm**
 
-(Munición 9mm):
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición 9mm):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
@@ -32,17 +44,25 @@ slug: panorama-mexico
 
 **AK 47**
 
-("Cuerno de Chivo"):
-
-(Munición 7.62 x 39mm):
+> > > ("Cuerno de Chivo"):
+> > >
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición 7.62 x 39mm):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
 **AR 15**
 
-(Semi-automático):
-
-(Munición 5.56×45mm NATO / .223 inch Rem):
+> > > (Semi-automático):
+> > >
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición 5.56×45mm NATO / .223 inch Rem):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
