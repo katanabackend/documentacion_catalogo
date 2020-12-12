@@ -63,5 +63,3 @@ Protección contra municiones:
 * 30.6 AP
 
 ***
-
-***
