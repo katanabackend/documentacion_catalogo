@@ -4,13 +4,6 @@
       {{ $page.doc.title }}
     </h1>
      <div class="markdown" v-html="$page.doc.content" />
-     <nav>
-        <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <a href="/mision" text="Misión" icon="target-icon" />
-        <a href="/panorama-mexico" text="Panorama de Seguridad México" icon="alert-triangle-icon" />
-        <a href="/catalogo-katana" text="Catálogo" icon="shield-icon" />
-        <a href="/contacto" text="Contacto" icon="message-square-icon" />
-      </nav>
   </Layout>
 </template>
 
@@ -33,29 +26,6 @@ export default {
       title: this.$page.doc.title,
       meta: [
         { key: 'description', name: 'description', content: this.$page.doc.description }
-      ]
-    }
-  }
-}
-
-</script>
-<script>
-import Shortcut from '~/components/Shortcut.vue'
-
-export default {
-  components: {
-    Shortcut
-  },
-  data() {
-    return {
-      description: 'EQUIPOS DE PROTECCIÓN BLINDADA'
-    }
-  },
-  metaInfo() {
-    return {
-      title: this.description,
-      meta: [
-        { key: 'description', name: 'description', content: 'EQUIPOS DE PROTECCION BLINDADA MEXICO' }
       ]
     }
   }
@@ -84,7 +54,6 @@ export default {
   }
 
 .markdown {
-  padding-bottom: 10vh;
+  padding-bottom: 50vh;
 }
-
 </style>
