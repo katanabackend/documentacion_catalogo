@@ -31,14 +31,14 @@ export default {
   },
   data() {
     return {
-      description: 'KATANA'
+      description: 'EQUIPOS DE PROTECCION BLINDADA '
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'EQUIPOS DE PROTECCION BLINDADA MEXICO' }
+        { key: 'description', name: 'description', content: 'KATANA' }
       ]
     }
   }
