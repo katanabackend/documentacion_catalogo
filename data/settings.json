@@ -19,31 +19,11 @@
       ]
     },
     {
-      "section": "CATÁLOGO",
+      "section": "NUESTRA PROPUESTA",
       "topics": [
         {
-          "title": "CHALECOS BALÍSTICOS",
-          "slug": "chalecos-balisticos"
-        },
-        {
-          "title": "PLACAS BALÍSTICAS",
-          "slug": "placas-balisticas"
-        },
-        {
-          "title": "CASCOS BALÍSTICOS",
-          "slug": "cascos-balisticos"
-        },
-        {
-          "title": "PORTA CARGADORES",
-          "slug": "porta-cargadores"
-        },
-        {
-          "title": "BOTAS TÁCTICAS",
-          "slug": "botas-tacticas"
-        },
-        {
-          "title": "CINTURONES TÁCTICOS",
-          "slug": "cinturones-tacticos"
+          "title": "CATÁLOGO",
+          "slug": "catalogo-katana"
         }
       ]
     },
