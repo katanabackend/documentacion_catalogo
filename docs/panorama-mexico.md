@@ -68,6 +68,4 @@ slug: panorama-mexico
 
 ## Winchester Model 70
 
-(Municion 30.06 Ap):
-
-Winchester Model 70: (Municion 30.06 A**p**):
+(Municion 30.06 AP):
