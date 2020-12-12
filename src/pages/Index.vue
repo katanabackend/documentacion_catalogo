@@ -31,7 +31,7 @@ export default {
   },
   data() {
     return {
-      description: 'EQUIPOS DE PROTECCIÓN BLINDADA'
+      description: 'KATANA'
     }
   },
   metaInfo() {
