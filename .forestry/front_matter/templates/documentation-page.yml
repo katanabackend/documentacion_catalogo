@@ -15,6 +15,7 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/catalogo-katana.md
 - docs/katana-equipos-de-proteccion-blindada.md
 - docs/niveles-de-blindaje-en-ropa.md
 - docs/panorama-mexico.md
