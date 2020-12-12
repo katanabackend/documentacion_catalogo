@@ -19,20 +19,20 @@
       ]
     },
     {
-      "section": "PROPUESTA DE PROTECCIÓN",
-      "topics": [
-        {
-          "title": "CATÁLOGO",
-          "slug": "catalogo-katana"
-        }
-      ]
-    },
-    {
       "section": "RESUMEN DE PROTECCION",
       "topics": [
         {
           "title": "NIVELES DE BLINDAJE PERSONAL",
           "slug": "niveles-blindaje"
+        }
+      ]
+    },
+    {
+      "section": "PROPUESTA DE PROTECCIÓN",
+      "topics": [
+        {
+          "title": "CATÁLOGO",
+          "slug": "catalogo-katana"
         }
       ]
     }
