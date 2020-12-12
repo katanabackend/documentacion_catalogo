@@ -9,7 +9,7 @@
         <Shortcut link="/catalogo-katana" text="Catálogo" icon="shield-icon" />
         <Shortcut link="/contacto" text="Contacto" icon="message-square-icon" />
       </nav>
-      <GitLink class="git" size="large" />
+      
     </div>
   </Layout>
 </template>
