@@ -4,7 +4,10 @@ date: 2020-12-11
 slug: panorama-mexico
 
 ---
-# Blindaje|NIVEL IIIA
+
+> > > ***
+> > >
+> > > **Soportadas por blindaje NIVEL IIIA**
 
 **Desert Eagle**
 
@@ -40,7 +43,9 @@ slug: panorama-mexico
 
 ***
 
-# Blindaje|NIVEL III
+> > > ***
+> > >
+> > > **Soportadas por blindaje NIVEL III**
 
 **AK 47**
 
@@ -112,7 +117,9 @@ slug: panorama-mexico
 
 ***
 
-# Blindaje|NIVEL IV
+> > > ***
+> > >
+> > > **Soportadas por blindaje NIVEL IV**
 
 **Winchester Model 70**
 

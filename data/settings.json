@@ -35,6 +35,15 @@
           "slug": "catalogo-katana"
         }
       ]
+    },
+    {
+      "section": "CONTÁCTO",
+      "topics": [
+        {
+          "title": "Información de contácto",
+          "slug": "contacto"
+        }
+      ]
     }
   ]
 }
