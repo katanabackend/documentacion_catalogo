@@ -22,7 +22,7 @@ slug: panorama-mexico
 
 ## S&W 9 mm
 
-\**(**Munición 9mm):
+(Munición 9mm):
 
 **CORRESPONDIENTES AL BLINDAJE**
 
