@@ -118,8 +118,8 @@ slug: panorama-mexico
 
 ![](/placeholder.png)
 
-> > > > (Municion 30.06 AP):
-> > > >
-> > > > ![](/placeholder.png)
+(Municion 30.06 AP):
+
+![](/placeholder.png)
 
 ***
