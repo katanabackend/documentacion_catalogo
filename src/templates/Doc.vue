@@ -84,7 +84,7 @@ export default {
   }
 
 .markdown {
-  padding-bottom: 50vh;
+  padding-bottom: 10vh;
 }
 nav {
   display: flex;
