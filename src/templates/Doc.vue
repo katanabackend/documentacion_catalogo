@@ -48,7 +48,9 @@ export default {
 }
 
 /deep/ > p > img {
-    max-width: 100%;
+    width: 100%;
+  max-width: 512px;
+  height: auto;
   }
 
 .markdown {
