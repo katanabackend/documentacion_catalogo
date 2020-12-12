@@ -89,7 +89,7 @@ export default {
 nav {
   display: flex;
   justify-content: space-between;
-  flex-direction: column;
+  flex-direction: row;
 
   @include respond-above(sm) {
     flex-direction: row;
