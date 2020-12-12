@@ -78,7 +78,7 @@ slug: panorama-mexico
 
 # Blindaje|NIVEL IV
 
-## Winchester Model 70
+**Winchester Model 70**
 
 (Municion 30.06 AP):
 
