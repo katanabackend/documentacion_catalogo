@@ -41,7 +41,7 @@ Protección contra municiones:
 * .357 MAG
 * .357 Sig
 * .44 MAG
-*  7.63x51 mm
+* 7.63x51 mm
 * 7.62x39 mm
 
   ***
@@ -60,8 +60,8 @@ Protección contra municiones:
 * 7.63x51 mm
 * 7.62x39 mm
 * 5.56x45 mm
-*  30.6 AP)
+* 30.6 AP
 
-  ***
+***
 
 ***
