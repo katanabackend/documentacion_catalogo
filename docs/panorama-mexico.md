@@ -68,31 +68,47 @@ slug: panorama-mexico
 
 **M16 y M4**
 
-(Automático):
-
-(Munición 5.56×45mm NATO / .223 inch Rem):
+> > > (Automático):
+> > >
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición 5.56×45mm NATO / .223 inch Rem):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
 **FN FAL**
 
-(Fusil moderno más común):
-
-(Munición 7.62x51 mm):
+> > > (Fusil moderno más común):
+> > >
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición 7.62x51 mm):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
 **COLT 1911**
 
-(Munición .45 ACP ):
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición .45 ACP ):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
 **FN 57**
 
-("Matapolicias"):
-
-(Munición 5.7x28mm ):
+> > > ("Matapolicias"):
+> > >
+> > > ![](/placeholder.png)
+> > >
+> > > > (Munición 5.7x28mm ):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
 
@@ -100,6 +116,10 @@ slug: panorama-mexico
 
 **Winchester Model 70**
 
-(Municion 30.06 AP):
+> > > ![](/placeholder.png)
+> > >
+> > > > (Municion 30.06 AP):
+> > > >
+> > > > ![](/placeholder.png)
 
 ***
