@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "CONTÁCTO",
-      "topics": [
-        {
-          "title": "Datos de contacto",
-          "slug": "contacto"
-        }
-      ]
-    },
-    {
       "section": "PRESENTACIÓN KATANA",
       "topics": [
         {
@@ -42,6 +33,15 @@
         {
           "title": "CATÁLOGO",
           "slug": "catalogo-katana"
+        }
+      ]
+    },
+    {
+      "section": "CONTÁCTO",
+      "topics": [
+        {
+          "title": "Datos de contacto",
+          "slug": "contacto"
         }
       ]
     }
