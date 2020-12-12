@@ -4,9 +4,7 @@ date: 2020-12-11
 slug: panorama-mexico
 
 ---
-**CORRESPONDIENTES AL BLINDAJE**
-
-# |NIVEL IIIA
+# Blindaje|NIVEL IIIA
 
 ## Desert Eagle
 
@@ -24,9 +22,7 @@ slug: panorama-mexico
 
 (Munición 9mm):
 
-**CORRESPONDIENTES AL BLINDAJE**
-
-# |NIVEL III
+# Blindaje|NIVEL III
 
 ## AK 47
 
@@ -62,9 +58,7 @@ slug: panorama-mexico
 
 (Munición 5.7x28mm ):
 
-**CORRESPONDIENTES AL BLINDAJE**
-
-# |NIVEL IV
+# Blindaje|NIVEL IV
 
 ## Winchester Model 70
 
