@@ -4,13 +4,33 @@ date: 2020-12-11
 slug: panorama-mexico
 
 ---
-Correspondientes al blindaje
+**CORRESPONDIENTES AL BLINDAJE**
 
-#  NIVEL III
+# |NIVEL IIIA
+
+## **Desert Eagle** 
+
+**("Magnum"):**
+
+(Munición .44 Mag):
+
+## **Taurus 856** 
+
+**(Revólver):**
+
+(Munición .38 Special):
+
+## **S&W 9 mm** 
+
+**(**Munición 9mm):
+
+**CORRESPONDIENTES AL BLINDAJE**
+
+# |NIVEL III
 
 ## **AK 47** 
 
-**(Cuerno de Chivo):**
+**("Cuerno de Chivo"):**
 
 (Munición 7.62 x 39mm):
 
@@ -31,3 +51,23 @@ Correspondientes al blindaje
 **(Fusil moderno más común):**
 
 (Munición 7.62x51 mm):
+
+## **COLT 1911** 
+
+(Munición .45 ACP ):
+
+## **FN 57** 
+
+**("Matapolicias"):**
+
+(Munición 5.7x28mm ):
+
+**CORRESPONDIENTES AL BLINDAJE**
+
+# |NIVEL IV
+
+## Winchester Model 70 
+
+(Municion 30.06 Ap):
+
+Winchester Model 70: (Municion 30.06 A**p**):
