@@ -37,6 +37,29 @@ export default {
     }
   }
 }
+
+</script>
+<script>
+import Shortcut from '~/components/Shortcut.vue'
+
+export default {
+  components: {
+    Shortcut
+  },
+  data() {
+    return {
+      description: 'EQUIPOS DE PROTECCIÓN BLINDADA'
+    }
+  },
+  metaInfo() {
+    return {
+      title: this.description,
+      meta: [
+        { key: 'description', name: 'description', content: 'EQUIPOS DE PROTECCION BLINDADA MEXICO' }
+      ]
+    }
+  }
+}
 </script>
 
 
@@ -62,5 +85,14 @@ export default {
 
 .markdown {
   padding-bottom: 50vh;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  @include respond-above(sm) {
+    flex-direction: row;
+  }
 }
 </style>
