@@ -4,6 +4,10 @@ date: 2020-12-11
 slug: panorama-mexico
 
 ---
+Correspondientes al blindaje
+
+#  NIVEL III
+
 ## **AK 47** 
 
 **(Cuerno de Chivo):**
