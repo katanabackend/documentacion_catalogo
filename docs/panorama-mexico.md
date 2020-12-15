@@ -4,7 +4,6 @@ date: 2020-12-11
 slug: panorama-mexico
 
 ---
-
 > > > ***
 > > >
 > > > **Soportadas por blindaje NIVEL IIIA**
@@ -13,11 +12,7 @@ slug: panorama-mexico
 
 ("Magnum"):
 
-![](/placeholder.png)
-
 (Munición .44 Mag):
-
-![](/placeholder.png)
 
 ***
 
@@ -25,21 +20,13 @@ slug: panorama-mexico
 
 (Revólver):
 
-![](/placeholder.png)
-
 (Munición .38 Special):
-
-![](/placeholder.png)
 
 ***
 
 **S&W 9 mm**
 
-![](/placeholder.png)
-
 (Munición 9mm):
-
-![](/placeholder.png)
 
 ***
 
@@ -51,11 +38,7 @@ slug: panorama-mexico
 
 ("Cuerno de Chivo"):
 
-![](/placeholder.png)
-
 (Munición 7.62 x 39mm):
-
-![](/placeholder.png)
 
 ***
 
@@ -63,11 +46,7 @@ slug: panorama-mexico
 
 (Semi-automático):
 
-![](/placeholder.png)
-
 (Munición 5.56×45mm NATO / .223 inch Rem):
-
-![](/placeholder.png)
 
 ***
 
@@ -75,11 +54,7 @@ slug: panorama-mexico
 
 (Automático):
 
-![](/placeholder.png)
-
 (Munición 5.56×45mm NATO / .223 inch Rem):
-
-![](/placeholder.png)
 
 ***
 
@@ -87,21 +62,13 @@ slug: panorama-mexico
 
 (Fusil moderno más común):
 
-![](/placeholder.png)
-
 (Munición 7.62x51 mm):
-
-![](/placeholder.png)
 
 ***
 
 **COLT 1911**
 
-![](/placeholder.png)
-
 (Munición .45 ACP ):
-
-![](/placeholder.png)
 
 ***
 
@@ -109,11 +76,7 @@ slug: panorama-mexico
 
 ("Matapolicias"):
 
-![](/placeholder.png)
-
 (Munición 5.7x28mm ):
-
-![](/placeholder.png)
 
 ***
 
@@ -123,10 +86,6 @@ slug: panorama-mexico
 
 **Winchester Model 70**
 
-![](/placeholder.png)
-
 (Municion 30.06 AP):
-
-![](/placeholder.png)
 
 ***
