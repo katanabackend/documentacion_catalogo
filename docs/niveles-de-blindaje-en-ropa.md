@@ -60,6 +60,8 @@ slug: niveles-blindaje
 > * 7.63x51 mm
 > * 7.62x39 mm
 > * 5.56x45 mm
-> * 30.6 AP 
+> * 30.6 AP
 
 ***
+
+![Niveles de blindaje en ropa](/blindaje-en-ropa.png "Niveles de blindaje en ropa")
