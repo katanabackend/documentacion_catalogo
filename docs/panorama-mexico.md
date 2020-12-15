@@ -12,11 +12,11 @@ slug: panorama-mexico
 
 ("Magnum"):
 
-![](/desert-eagle.png)
+![Desert Eagle](/desert-eagle.png "Desert Eagle")
 
 (Munición .44 Mag):
 
-![](/44mag.png)
+![.44 Mag](/44mag.png ".44 Mag")
 
 ***
 
@@ -24,21 +24,21 @@ slug: panorama-mexico
 
 (Revólver):
 
-![](/taurus856.png)
+![Taurus 856](/taurus856.png "Taurus 856")
 
 (Munición .38 Special):
 
-![](/38spec.png)
+![.38 Special](/38spec.png ".38 Special")
 
 ***
 
 **S&W 9 mm**
 
-![](/sw9mm.png)
+![S&W 9 mm](/sw9mm.png "S&W 9 mm")
 
 (Munición 9mm):
 
-![](/9mm.png)
+![9mm](/9mm.png "9mm")
 
 ***
 
@@ -50,11 +50,11 @@ slug: panorama-mexico
 
 ("Cuerno de Chivo"):
 
-![](/ak47.png)
+![AK 47](/ak47.png "AK 47")
 
 (Munición 7.62 x 39mm):
 
-![](/7-62_39mm.png)
+![7.62 x 39mm](/7-62_39mm.png "7.62 x 39mm")
 
 ***
 
@@ -62,11 +62,11 @@ slug: panorama-mexico
 
 (Semi-automático):
 
-![](/ar15.png)
+![AR 15](/ar15.png "AR 15")
 
 (Munición 5.56×45mm NATO / .223 inch Rem):
 
-![](/5-56_45mm-1.png)
+![5.56×45mm](/5-56_45mm-1.png "5.56×45mm")
 
 ***
 
@@ -74,11 +74,11 @@ slug: panorama-mexico
 
 (Automático):
 
-![](/m6m4.png)
+![M16 / M4](/m6m4.png "M16 / M4")
 
 (Munición 5.56×45mm NATO / .223 inch Rem):
 
-![](/5-56_45mm.png)
+![5.56×45mm](/5-56_45mm.png "5.56×45mm")
 
 ***
 
@@ -86,21 +86,21 @@ slug: panorama-mexico
 
 (Fusil moderno más común):
 
-![](/fn-fal.png)
+![FN FAL](/fn-fal.png "FN FAL")
 
 (Munición 7.62x51 mm):
 
-![](/7-65_51mm.png)
+![7.62x51 mm](/7-65_51mm.png "7.62x51 mm")
 
 ***
 
 **COLT 1911**
 
-![](/colt1911.png)
+![COLT 1911](/colt1911.png "COLT 1911")
 
 (Munición .45 ACP ):
 
-![](/45acp.png)
+![.45 ACP](/45acp.png ".45 ACP")
 
 ***
 
@@ -108,11 +108,11 @@ slug: panorama-mexico
 
 ("Matapolicias"):
 
-![](/fn57.png)
+![FN 57](/fn57.png "FN 57")
 
 (Munición 5.7x28mm ):
 
-![](/5-7_28mm.png)
+![5.7x28mm](/5-7_28mm.png "5.7x28mm")
 
 ***
 
@@ -122,10 +122,10 @@ slug: panorama-mexico
 
 **Winchester Model 70**
 
-![](/winchestermodel70.png)
+![Winchester Model 70](/winchestermodel70.png "Winchester Model 70")
 
 (Municion 30.06 AP):
 
-![](/30-06ap.png)
+![30.06 AP](/30-06ap.png "30.06 AP")
 
 ***
