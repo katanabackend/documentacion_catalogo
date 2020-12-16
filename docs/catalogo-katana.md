@@ -46,7 +46,11 @@ slug: catalogo-katana
 
 **PORTA CARGADOR DOBLE CON TAPA | ARMA CORTA**
 
+![](/porta-cargador-cortas.png)
+
 **PORTA CARGADOR CON TAPA | ARMA LARGA**
+
+![](/porta-cargador-largas.png)
 
 ***
 
