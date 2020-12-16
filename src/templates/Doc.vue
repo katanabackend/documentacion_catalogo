@@ -35,7 +35,7 @@ export default {
 
 <style lang="scss" scoped>
 /deep/ > p {
-  opacity: .8;
+  opacity: 1;
 }
 
 /deep/ > h2 {
@@ -48,7 +48,7 @@ export default {
 }
 
 /deep/ > p > img {
-    width: 100%;
+    
   max-width: 512px;
   height: auto;
   }
