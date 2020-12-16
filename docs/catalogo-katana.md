@@ -62,6 +62,6 @@ slug: catalogo-katana
 
 ***
 
-# BOTAS TACTICAS
+# BOTAS TACTICAS![](/botas-y-cinto.jpeg)
 
 # 
