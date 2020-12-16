@@ -58,6 +58,8 @@ slug: catalogo-katana
 
 **CINTURÓN TÁCTICO MODELO COBRA**
 
+![](/cinturona.jpeg)
+
 ***
 
 # BOTAS TACTICAS
